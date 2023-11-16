@@ -1,0 +1,82 @@
+[
+    {
+      "name": "Cox's Bazar",
+      "description": "Cox's Bazar is known for its long natural sea beach, the world's longest natural sea beach. It is a popular tourist destination.",
+      "location": "Cox's Bazar",
+      "imageUrl": "https://images.prothomalo.com/prothomalo-english%2Fimport%2Fmedia%2F2014%2F04%2F21%2F5354d99e9acd8-coxs_bazar_sea_be_2_galleryfull.jpeg?auto=format%2Ccompress&w=1200",
+      "host": {
+        "name": "Host 1",
+        "id": "654290da68cb3d90418aeb82"
+      },
+      "price": 100,
+      "tripStartDate": "2023-12-01",
+      "tripEndDate": "2023-12-07"
+    },
+    {
+      "name": "Sundarbans",
+      "description": "The Sundarbans is a UNESCO World Heritage Site and home to the Bengal tiger. It's a vast mangrove forest in the delta of the Padma, Meghna, and Brahmaputra river basins.",
+      "location":{ "name":"Sundarbans"},
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/65/03/8c/sundarban.jpg?w=1200&h=1200&s=1",
+      "host": {
+        "name": "Host 5",
+        "id": "654291421d1f8d15171226ae"
+      },
+      "price": 150,
+      "tripStartDate": "2023-11-20",
+      "tripEndDate": "2023-11-27"
+    },
+    {
+      "name": "Sajek Valley",
+      "description": "Sajek Valley is known for its picturesque landscapes and is one of the emerging tourist spots in Bangladesh.",
+      "location": "Sajek Valley",
+      "imageUrl": "https://i.pinimg.com/originals/50/10/4a/50104a5ba9bea452159dc69c656a64cf.jpg",
+      "host": {
+        "name": "Host 4",
+        "id": "6542913b1d1f8d15171226ac"
+      },
+      "price": 120,
+      "tripStartDate": "2023-11-15",
+      "tripEndDate": "2023-11-22"
+    },
+    {
+      "name": "Rangamati",
+      "description": "Rangamati is a hill district known for its beautiful landscapes, hills, and pristine lakes.",
+      "location": "Rangamati",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5rNbTPew-RJJA0Pu-xZ949BvP6ivFIPrZr6x3cw4C6HqZkzU9QMHdLSMMnkDylvpR64&usqp=CAU",
+      "host": {
+        "name": "Host 3",
+        "id": "654291331d1f8d15171226aa"
+      },
+      "price": 80,
+      "tripStartDate": "2023-12-05",
+      "tripEndDate": "2023-12-12"
+    },
+    {
+      "name": "Saint Martin's Island",
+      "description": "Saint Martin's Island is the only coral island in Bangladesh and offers stunning beaches and crystal-clear waters.",
+      "location": "Saint Martin's Island",
+      "imageUrl": "https://assignmentpoint.com/wp-content/uploads/2017/10/saint-martin-bangladesh-1.jpg",
+      "host": {
+        "name": "Host 1",
+        "id": "654290da68cb3d90418aeb82"
+      },
+      "price": 130,
+      "tripStartDate": "2023-12-10",
+      "tripEndDate": "2023-12-16"
+    },
+    {
+      "name": "Kuakata",
+      "description": "Kuakata is a panoramic sea beach on the southernmost tip of Bangladesh. It's known as the 'Daughter of the Sea.'",
+      "location": "Kuakata",
+      "imageUrl": "https://www.kalerkantho.com/_next/image?url=http%3A%2F%2Fecdn.kalerkantho.com%2Fpublic%2Fnews_images%2F2018%2F06%2F27%2F145621kuakata-201806270244.jpg&w=1920&q=100",
+      "host": {
+        "name": "Host 2",
+        "id": "6542911c1d1f8d15171226a8"
+      },
+      "price": 110,
+      "tripStartDate": "2023-11-25",
+      "tripEndDate": "2023-11-30"
+    }
+  ]
+  
+  
